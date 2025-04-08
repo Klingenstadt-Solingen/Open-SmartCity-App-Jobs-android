@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- JOB RELATED STRINGS [!need override!] -->
+    <string name="jobs_title"/>
+    <string name="jobs_details_title"/>
+    <string name="jobs_company_logo_description"/>
+    <string name="jobs_full_time"/>
+    <string name="jobs_part_time"/>
+</resources>
